@@ -1,0 +1,39 @@
+# breast-cancer-diagnosis-dashboard
+Breast Cancer Diagnosis Dashboard (Power BI)
+
+This Power BI dashboard provides an interactive analysis of breast cancer diagnosis data, helping users understand the distribution and characteristics of benign and malignant tumor cases. The dashboard visualizes key medical measurements and diagnostic outcomes to support data-driven insights.
+
+Objectives
+Analyze breast cancer diagnosis patterns.
+Compare tumor characteristics between benign and malignant cases.
+Monitor key performance indicators (KPIs) related to diagnosis distribution.
+Enable interactive filtering for deeper exploration of the dataset.
+
+Key Features
+Diagnosis Distribution: Displays the proportion of benign and malignant cases using a donut chart.
+Average Metrics by Diagnosis: Compares average values of:
+Texture Mean
+Radius Mean
+Area Mean
+Perimeter Mean
+Concavity Mean
+Interactive Filters: Allows users to filter data by diagnosis, radius mean, texture mean, and area mean.
+KPI Cards: Highlights important statistics such as:
+Total Patients: 569
+Benign Cases: 357
+Malignant Cases: 212
+Benign Percentage: 63%
+Malignant Percentage: 37%
+
+Insights
+Benign cases account for the majority of diagnoses (63%).
+Malignant tumors generally exhibit higher average values for radius, area, perimeter, texture, and concavity compared to benign tumors.
+The dashboard helps identify distinguishing characteristics associated with malignant breast cancer cases.
+
+Tools Used 
+Power BI for dashboard creation and visualization.
+Breast Cancer Dataset (Wisconsin Breast Cancer Dataset).
+Data modeling, DAX measures, KPI cards, slicers, bar charts, and donut charts.
+Power BI for dashboard creation and visualization.
+Breast Cancer Dataset (Wisconsin Breast Cancer Dataset).
+Data modeling, DAX measures, KPI cards, slicers, bar charts, and donut charts.
